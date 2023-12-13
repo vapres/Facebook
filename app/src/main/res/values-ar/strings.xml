@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Facebook</string>
+    <string name="email_or_phone_number">"البريد الإلكتروني أو رقم الهاتف" </string>
+    <string name="password">"كلمة المرور"</string>
+    <string name="log_in">"تسجيل الدخول"</string>
+    <string name="sign_up_for_facebook">انشاء حساب في فيسبوك</string>
+    <string name="help_center">مركز المساعدة</string>
+</resources>
